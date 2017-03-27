@@ -1,4 +1,4 @@
-# IoT_RaspberryPi
+# IoT_SensorNetworkGalileo
 
 ## This project has only been tested with Intel Galileo Gen 1
 
